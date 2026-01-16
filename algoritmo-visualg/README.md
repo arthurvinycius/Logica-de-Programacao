@@ -9,3 +9,4 @@ de lógica de programação utilizando o Visualg.
 - Estruturas de repetição
 - Vetores
 - Procedimentos e funções
+- Matrizes
